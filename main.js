@@ -18,20 +18,20 @@ var pct =new Array(9);
      */
 
     var color1 = '#c982ff';
-    var color2 = '#ffa76d';
+    var color2 = '#ffc097';
     var color3 ='#969696';
     var colortxt1 = '#8600f0';
     var colortxt2= '#ff7f2a';
     var colortxt3= '#000000';
     //Select the background color
-    var color =color1;
+    var color =color2;
     //Select the text color
-    var colortxt = colortxt1;
+    var colortxt = colortxt2;
     var gendertext1 = "It is a Girl!";
     var gendertext2 = "It is a Boy!";
     var gendertext3= "It is a Demo!";
     //Select the gender text
-    var gendertext = gendertext1;
+    var gendertext = gendertext2;
     var surname;
     var soundHandle = new Audio();
     var triggered=false;
